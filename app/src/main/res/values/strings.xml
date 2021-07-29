@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Login</string>
+    <string name="login_failed">Login failed</string>
+    <string name="login_done">Login Successful</string>
+    <string name="error_api">Something went wrong. Please try again later</string>
+    <string name="error_email">Please enter valid email</string>
+    <string name="error_password">Please enter valid password</string>
+
+    <string name="no_internet">No internet connection available</string>
+    <string name="no_todo_s_available">No ToDo\'s available</string>
+    <string name="home">Home</string>
+
+    <string name="add_todo">Add ToDo</string>
+    <string name="update_todo">Update ToDo</string>
+
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="weekly">Weekly Alarm</string>
+    <string name="daily">Daily Alarm</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="save">Save</string>
+    <string name="logout">Logout</string>
+
+    <string name="err_title">Please enter valid title</string>
+    <string name="err_desc">Please enter valid description</string>
+    <string name="err_type">Please select type</string>
+    <string name="err_date">Please enter valid date</string>
+    <string name="err_time">Please enter valid time</string>
+
+    <string name="todo_save">ToDo saved successfully</string>
+    <string name="date_time">%1$s  %2$s</string>
+
+    <string name="ask_delete">Are you sure you want to delete To Do %1$s?</string>
+
+</resources>
